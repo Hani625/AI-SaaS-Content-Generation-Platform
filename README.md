@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Genius - Empowering Businesses with AI 🚀
 
 ![Genius Logo](public/logo.png)
@@ -54,55 +52,3 @@ Genius is deployed using Vercel, a leading cloud platform, ensuring top-notch pe
 ```bash
 git clone https://github.com/your-username/saas-ai-platform.git
 cd saas-ai-platform
-
-```
-
-2. Install dependencies:
-
-```bash
-npm install
-```
-
-3. Run the development server:
-
-```bash
-npm run dev
-```
-
-## Contribute
-
-We welcome contributions from the community to enhance Genius further. To contribute, follow these steps:
-
-1. Fork the repository.
-
-2. Create a new branch.
-
-3. Make your changes and commit them.
-
-4. Push the changes to your fork.
-
-5. Submit a pull request to the main repository.
-
-## Future Roadmap
-
-We are continually working on adding more exciting features and improvements to Genius. Stay tuned for updates!
-
-## License
-
-Genius is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-## Contact
-
-Have questions or suggestions? Feel free to contact our team at contact@geniusai.com or open an issue in this repository.
-
-Let's create the future of AI together! 🌐✨
-=======
-# AI-SaaS-Content-Generation-Platform
-=======
-# AI-SaaS-Content-Generation-Platform
-<<<<<<< HEAD
-Content from your local main branch
-=======
-Content from origin/main branch
->>>>>>> a025ba46ac495e3bf117755b48a4360ff7989a33
->>>>>>> origin/main
