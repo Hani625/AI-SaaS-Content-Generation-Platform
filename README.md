@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Genius - Empowering Businesses with AI 🚀
 
 ![Genius Logo](public/logo.png)
@@ -97,4 +98,11 @@ Have questions or suggestions? Feel free to contact our team at contact@geniusai
 Let's create the future of AI together! 🌐✨
 =======
 # AI-SaaS-Content-Generation-Platform
+=======
+# AI-SaaS-Content-Generation-Platform
+<<<<<<< HEAD
+Content from your local main branch
+=======
+Content from origin/main branch
+>>>>>>> a025ba46ac495e3bf117755b48a4360ff7989a33
 >>>>>>> origin/main
